@@ -16,6 +16,10 @@ public class Program
 
     PublicacioImagen imagen1 = new PublicacioImagen("Mira la siguiente imagen","Oscar Osambela", "http://www.imagen.com", true);
     Console.WriteLine(imagen1.ToString());
+
+		PublicacionVideo video1 = new PublicacionVideo("Mi mascota","https://www.mivideo.com", 200, "Oscar Osambela", true);
+		Console.WriteLine(video1.ToString());
+		
   }
 }
 
