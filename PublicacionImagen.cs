@@ -16,4 +16,3 @@ class PublicacioImagen:Publicacion{
       return string.Format("{0} - {1} en {2} - Creado por {3}", this.ID, this.TITULO, this.URLIMAGEN, this.AUTOR);
     }
 }
-  

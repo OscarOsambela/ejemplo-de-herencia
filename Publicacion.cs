@@ -1,3 +1,4 @@
+
 class Publicacion{
   //variable
   private static int publicacionId;
@@ -39,4 +40,3 @@ class Publicacion{
     }
   
   }
-
